@@ -238,7 +238,7 @@ header .brand h1 {
 }
 .intro-content .heart {
   color: #df0000;
-  -webkit-text-stroke: 2px black;
+  -webkit-text-stroke: 2px white;
   display: inline-block;
   margin-left: 40px;
   margin-right: 40px;
