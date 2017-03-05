@@ -75,12 +75,12 @@ a,
 }
 .btn-primary {
   background-color: #00294d;
-  border-color: #f1e634;
+  border-color: #e2cc0e;
 }
 .btn-primary:hover,
 .btn-primary:focus {
   background-color: #001e38;
-  border-color: #f1e634;
+  border-color: #e2cc0e;
 }
 .overlay {
   position: absolute;
@@ -149,7 +149,7 @@ a,
   color: #c8c9c9;
 }
 .navbar-inverse .navbar-nav > li > a:hover {
-  background-color: #f1e634;
+  background-color: #e2cc0e;
 }
 .navbar-inverse .navbar-brand {
   color: #c8c9c9;
@@ -207,7 +207,7 @@ header {
   position: relative;
   background-size: cover;
   background-color: #c8c9c9;
-  background-position: center;
+  background-position: 10% 20%;
 }
 header .title {
   font-weight: 500;
@@ -216,8 +216,8 @@ header .title {
 header .brand h1 {
   color: #c8c9c9;
   display: inline-block;
-  border-top: 1px solid #f1e634;
-  border-bottom: 1px solid #f1e634;
+  border-top: 1px solid #e2cc0e;
+  border-bottom: 1px solid #e2cc0e;
   padding: 10px 15px;
   font-size: 76px;
   text-shadow: 2px 2px 0px #00294d;
