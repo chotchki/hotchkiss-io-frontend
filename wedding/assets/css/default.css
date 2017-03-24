@@ -436,7 +436,7 @@ form.form {
   background: #fff;
 }
 textarea.form-control {
-  height: 160px;
+  height: 200px;
 }
 label.error {
   color: #f72510;
